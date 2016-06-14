@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/omer/Desktop/Last Android/DownloadManager/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="45b5d71a0ea1cbce6b32aeb400976c550df26978">
+        <dex dex="/Users/omer/Desktop/Last Android/DownloadManager/app/build/intermediates/pre-dexed/debug/instant-run_0df45be951c97594cdef89e0dd3ee6f2ece9d065.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/Last Android/DownloadManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/omer/Desktop/Last Android/DownloadManager/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_9df450b5c74ac028555ec896dc97bf18091bc20c.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/Last Android/DownloadManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/omer/Desktop/Last Android/DownloadManager/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_51165f08ba89a9dd11e3bf9ab5dd5c4395183626.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/Last Android/DownloadManager/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/omer/Desktop/Last Android/DownloadManager/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_317b911ec596358e062dba3277c678d20cfe6ced.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/Last Android/DownloadManager/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/omer/Desktop/Last Android/DownloadManager/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_27ab70a07e01efc01a9f4c292cb3d1e2b869c926.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/Last Android/DownloadManager/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/omer/Desktop/Last Android/DownloadManager/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_fec97d3d120e98880e32f06712ade03827d12620.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/omer/Desktop/Last Android/DownloadManager/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_ef5a0b20a4c6f04bac57436e99dc87ce7fdd6f78.jar" />
+    </item>
+    <item
+        jar="/Users/omer/Desktop/Last Android/DownloadManager/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b1b5bc14bb1683b3b32b18b92599465a444c61b1">
+        <dex dex="/Users/omer/Desktop/Last Android/DownloadManager/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_3bb055915be700115ced5d9507ec83b246ea31d8.jar" />
+    </item>
+
+</items>
